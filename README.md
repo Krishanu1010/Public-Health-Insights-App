@@ -78,10 +78,13 @@ Insights and Recommendations
 
 
 Video Demonstration
+
 https://drive.google.com/file/d/1p8ePVcZwylzrGOZ8lPgF-HPaKG8kHLpa/view?usp=sharing
 
 Contributing
+
 Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
